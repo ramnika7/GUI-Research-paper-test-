@@ -24,7 +24,6 @@ This repository is an independent implementation based on the research presented
 > **JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition**  
 > *Chen et al., EMNLP 2026*
 
-If you use or reference this codebase in your work, please cite the original paper:
 
 ```bibtex
 @inproceedings{chen2026jarvisgui,
