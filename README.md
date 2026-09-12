@@ -16,3 +16,20 @@ This repository evaluates cross-device AI model efficiency and execution success
 - **Evaluated Models:** [Specify model name, e.g., GPT-4o, Claude 3.5]
 - **Environment:** Cross-device GUI automation environment
 - **Execution Log:** Refer to [`results.log`](./results.log) for full execution outputs.
+- 
+## Citation & Acknowledgements
+
+This repository is an independent implementation based on the research presented in:
+
+> **JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition**  
+> *Chen et al., EMNLP 2026*
+
+If you use or reference this codebase in your work, please cite the original paper:
+
+```bibtex
+@inproceedings{chen2026jarvisgui,
+  title={JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition},
+  author={Chen, et al.},
+  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year={2026}
+}
