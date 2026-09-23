@@ -20,6 +20,7 @@ This repository evaluates cross-device AI model efficiency and execution success
   4) Gui OWL -32B
   5) Qwen3-VL-30B-A3B-Instruct (2025a)
   6) HOLO2-30B-A3B(H-company-2025)
+  
   -LLM as a judge -
 **Qwen3-30B-A3B-Thinking-2507-FP8
 - Environment: Cross-device GUI automation environment
