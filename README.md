@@ -13,8 +13,17 @@ This repository evaluates cross-device AI model efficiency and execution success
 | **Sub-task Success Rate (SSR)** | 76.7% | [56.7%, 93.3%] | 30 total subtasks |
 
 ## Methodology & Experimental Setup
-- **Environment:** Cross-device GUI automation environment
-- **Execution Log:** Refer to [`results.log`](./results.log) for full execution outputs.
+- Baseline GUI evaluated:
+- 1) UI Venus Ground - 7B(2025)
+  2) UI TARS -1.5-7-B (2025)
+  3) MAI-UI-8B(2025)
+  4) Gui OWL -32B
+  5) Qwen3-VL-30B-A3B-Instruct (2025a)
+  6) HOLO2-30B-A3B(H-company-2025)
+  -LLM as a judge -
+**Qwen3-30B-A3B-Thinking-2507-FP8
+- Environment: Cross-device GUI automation environment
+- Execution Log: Refer to [`results.log`](./results.log) for full execution outputs.
 - 
 ## Citation & Acknowledgements
 
