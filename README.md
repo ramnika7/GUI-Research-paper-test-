@@ -13,7 +13,6 @@ This repository evaluates cross-device AI model efficiency and execution success
 | **Sub-task Success Rate (SSR)** | 76.7% | [56.7%, 93.3%] | 30 total subtasks |
 
 ## Methodology & Experimental Setup
-- **Evaluated Models:** [Specify model name, e.g., GPT-4o, Claude 3.5]
 - **Environment:** Cross-device GUI automation environment
 - **Execution Log:** Refer to [`results.log`](./results.log) for full execution outputs.
 - 
